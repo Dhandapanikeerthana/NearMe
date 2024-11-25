@@ -173,7 +173,7 @@ Vaniyambadi is located in the Easter Ghats region, on the banks of the Palar riv
 ```
 
 ## OUTPUT
-![alt text](1.png)
+![alt text](1-1.png)
 
 ![alt text](2.png)
 
